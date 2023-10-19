@@ -3,8 +3,8 @@ from bs4 import BeautifulSoup
 from pprint import pprint
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
-CLIENT_ID = "78243ee5e8cc4923babb7e864ab09cff"
-CLIENT_SECRET = "29014bc824c9486da99222734cab6172"
+CLIENT_ID = "your id"
+CLIENT_SECRET = "your id"
 # user_date = input("Enter the date you wannna listen on YYYY-MM-DD format \n")
 # # print(f"https://www.billboard.com/charts/hot-100/{user_date}")
 # billboard_text = requests.get(f"https://www.billboard.com/charts/hot-100/{user_date}").text
